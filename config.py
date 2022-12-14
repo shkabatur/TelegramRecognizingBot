@@ -1,0 +1,2 @@
+MODEL_PATH = "models/eng"
+BOT_TOKEN = "PUT_YOUR_TOKEN"
